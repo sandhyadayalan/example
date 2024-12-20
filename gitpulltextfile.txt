@@ -1,4 +1,5 @@
+new line after mergr commit
+let see what happens now 
+we don't have any other stuffs`
 now am learning git and github
-
 i have 8 years experience in seo
-
