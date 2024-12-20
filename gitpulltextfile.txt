@@ -1,4 +1,2 @@
-my name is sandhya
-
-i have completed my .net course
+now am learning git and github
 
