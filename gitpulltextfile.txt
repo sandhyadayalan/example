@@ -1,6 +1,4 @@
-my name is sandhya
-
-i have completed my .net course
+now am learning git and github
 
 i have 8 years experience in seo
 
